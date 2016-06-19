@@ -2,7 +2,7 @@
   "name": "first-express-node",
   "version": "1.0.0",
   "description": "trying to first node app on heroku cloud",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
     "body-parser": "^1.15.1",
     "cookie-parser": "^1.4.3",
